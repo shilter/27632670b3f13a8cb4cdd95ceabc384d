@@ -15,4 +15,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shilter&show_icons=true" alt="shilter" /></p>
 
 
-![Screenshot](Architecture.jpg)
+![Screenshot](Architecture.png)
